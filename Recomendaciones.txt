@@ -1,0 +1,6 @@
+Recomendaciones 
+* Verificar que los nombres esten bien escrito respetenado las mayusculas.
+* Se necesita tener al dia el listado de las personas que aun estan en el sistema.
+* Poner bien el orden de nombre y apellido 
+*Apodos no estan registrados en el sistema
+* Si no sabe el nombre ingrese el DPI
